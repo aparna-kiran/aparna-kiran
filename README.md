@@ -8,10 +8,6 @@ I love mathematics and have been able to successfully score close to 100% from h
 
 I am interested in working in the retail industry. 
 
-🌱 I am learning about applying data engineering methologies in a retail industry using Databricks and using Google Analytics to perform customer behavior analysis
-
-💬 Reach me about e-commerce data analysis using SQL
-
 <!--
 **aparna-kiran/aparna-kiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
