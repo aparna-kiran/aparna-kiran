@@ -4,7 +4,7 @@ My name is Aparna Kiran.
 My full name is Aparna Kiran, Amby Sindhu.
 I am a data analyst with 2+ years of experience in analysing data with expertise in SQL, Excel, and Python.
 
-I love mathematics and have been able to successfully score close to 100% from high school to till 4th year of my engineering degree.
+I love mathematics and have been able to successfully score more than 90% (often 100%) from high school till 4th year of my Engineering degree.
 
 I am interested in working in the retail industry. 
 
