@@ -5,7 +5,7 @@ My full name is Aparna Kiran, Amby Sindhu.
 
 **2024** - Present: Seeking a challenging role as a Data Analyst 
 
-**2023 - 2024**: Decided to pursue higher studies aboard to shift my career into data analytics. Enrolled into Business Analytics Masters degree at one of the top 10 universities in the world, according to QS Universities Ranking.
+**2023 - 2024**: Decided to pursue higher studies aboard to shift my career into data analytics. Enrolled into Business Analytics Masters degree at one of the top 10 universities in the UK (and 100 in the world), according to QS Universities Ranking.
 
 **2023**:  A project during my job sparked interest in data analytics and I started exploring and learning more about data analysis. 
 
