@@ -13,7 +13,7 @@ My full name is Aparna Kiran, Amby Sindhu.
 
 2021 - 2022: Worked as a software (UI/UX) developer and received exposure to the world of data analysis.
 
-2021: I started my career with an internship as an information security auditor at one of the government's Research and Development Institute for Information Technology, Centre for Development of Advanced Computing (CDAC)
+2021: I started my career with an internship as an information security auditor at one of the government's Research and Development Institute for Information Technology called Centre for Development of Advanced Computing (CDAC)
 
 I love mathematics and have been able to successfully score more than 90% (often 100%) from high school till 4th year of my Engineering degree.
 <!--
