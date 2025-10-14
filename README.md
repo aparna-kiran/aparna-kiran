@@ -2,12 +2,15 @@
 
 My name is Aparna Kiran.
 My full name is Aparna Kiran, Amby Sindhu.
-I am a data analyst with 2+ years of experience in analysing data with expertise in SQL, Excel, and Python.
+
+2024 - Present: Seeking a challenging role as a Data Analyst 
+2023 - 2024: Decided to pursue higher studies aboard to shift my career into data analytics. Enrolled into Business Analytics Masters degree at one of the top 10 universities in the world, according to QS Universities Ranking.
+2023:  A project during my job sparked interest in data analytics and I started exploring and learning more about data analysis. 
+2022 - 2023: Career break. In 2022, I lost my parent in an accident and needed a break to spend quality time with my family and re-gain perceptions on life.
+2021 - 2022: Worked as a software (UI/UX) developer and received exposure to the world of data analysis.
+2021: I started my career with an internship as an information security auditor at one of the government's Research and Development Institute for Information Technology, Centre for Development of Advanced Computing (CDAC)
 
 I love mathematics and have been able to successfully score more than 90% (often 100%) from high school till 4th year of my Engineering degree.
-
-I am interested in working in the retail industry. 
-
 <!--
 **aparna-kiran/aparna-kiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
