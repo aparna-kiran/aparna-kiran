@@ -3,7 +3,9 @@
 My name is Aparna Kiran.
 My full name is Aparna Kiran, Amby Sindhu.
 
-**2024 - Present**: Seeking a challenging role as a Data Analyst 
+Customer Insights Analyst is my most relevant position with plenty of transferable skills from my previous work experiences as a UI/UX developer, where I have developed websites applying UX features that attract users and visually appeal to them, and as a Customer Assistant at Marks and Spencer, where I got to observe and analyse customer behavior and actions in real life. 
+
+**2024 - Present**: Seeking a challenging role as a Data or Insights Analyst.  
 
 **2023 - 2024**: Decided to pursue higher studies aboard to shift my career into data analytics. Enrolled into Business Analytics Masters degree at one of the top 10 universities in the UK (and 100 in the world), according to QS Universities Ranking.
 
