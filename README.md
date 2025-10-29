@@ -7,7 +7,7 @@ Exploring entry-level data or insights analyst roles in the UK.
 
 **About Me:**
 Mathematics has been my favorite subject ever since I was a child and have always successfully scored more than 90% (often 100%) each time starting from high school till now. 
-I am a intellectually curious and technically savvy person with strong interpersonal skills and collaborator. 
+I am a intellectually curious and technically savvy person with strong interpersonal, collaboration, and communication skills. 
 
 **2024 - Present**: Seeking a challenging role as a Data or Insights Analyst.  
 
