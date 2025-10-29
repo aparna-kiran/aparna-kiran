@@ -3,7 +3,11 @@
 My name is Aparna Kiran.
 My full name is Aparna Kiran, Amby Sindhu.
 
-Customer Insights Analyst is my most relevant position with plenty of transferable skills from my previous work experiences as a UI/UX developer, where I have developed websites applying UX features that attract users and visually appeal to them, and as a Customer Assistant at Marks and Spencer, where I got to observe and analyse customer behavior and actions in real life. 
+Exploring entry-level data or insights analyst roles in the UK.
+
+**About Me:**
+Mathematics has been my favorite subject ever since I was a child and have always successfully scored more than 90% (often 100%) each time starting from high school till now. 
+I am a intellectually curious and technically savvy person with strong interpersonal skills and collaborator. 
 
 **2024 - Present**: Seeking a challenging role as a Data or Insights Analyst.  
 
@@ -17,8 +21,7 @@ Customer Insights Analyst is my most relevant position with plenty of transferab
 
 **2021**: I started my career with an internship as an information security auditor at one of the government's Research and Development Institute for Information Technology called Centre for Development of Advanced Computing (CDAC)
 
-**About Me:**
-I loved mathematics since I was a child and have always managed to score more than 90% (often 100%) starting from high school till 4th year of my Bachelors.
+
 <!--
 **aparna-kiran/aparna-kiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
